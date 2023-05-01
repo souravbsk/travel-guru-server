@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Dhaka",
+      "description": "Dhaka is the capital and largest city of Bangladesh, located in the eastern part of the country. With a population of over 21 million people, it is one of the most densely populated cities in the world. Dhaka is a vibrant and bustling city with a rich history and culture, as well as a thriving economy. It is known for its traditional markets, colorful rickshaws, and delicious cuisine. However, it also faces a range of challenges, including traffic congestion, air pollution, and a lack of adequate infrastructure. Despite these challenges, Dhaka continues to grow and evolve, attracting visitors and new residents from around the world.",
+      "image": "https://i.ibb.co/yBFVnxd/Rectangle1.png",
+      "price": 800.00,
+      "currency": "USD"
+    },
+    {
+      "id": 2,
+      "name": "Cox's Bazar",
+      "description": "Cox's Bazar is a coastal town in southeastern Bangladesh, located on the Bay of Bengal. It is known for its stunning, sandy beaches, which stretch for over 120 kilometers, making it the longest natural sea beach in the world. Cox's Bazar attracts a large number of tourists each year, drawn to its beautiful scenery and warm waters. In addition to its beaches, Cox's Bazar is also home to a number of natural attractions, including waterfalls, forests, and hills. The town is also an important fishing port and is known for its seafood. Despite its natural beauty, Cox's Bazar faces a number of challenges, including overdevelopment, environmental degradation, and poverty. However, efforts are being made to address these issues and preserve the town's natural beauty for future generations.",
+      "image": "https://i.ibb.co/gmYN2cC/Sajek.png",
+      "price": 1200.00,
+      "currency": "USD"
+    },
+    {
+      "id": 3,
+      "name": "Sundarbans",
+      "description": "The Sundarbans is a vast mangrove forest located in the delta region of the Bay of Bengal, spanning across Bangladesh and India. It is the largest deltaic mangrove forest in the world and is known for its unique ecosystem, which is home to a variety of rare and endangered species, including the Bengal tiger, saltwater crocodile, and Irrawaddy dolphin. The Sundarbans is a UNESCO World Heritage Site and a Ramsar wetland of international importance. It is also an important source of livelihood for local communities, who rely on its resources for fishing and farming. However, the Sundarbans faces a range of challenges, including climate change, sea-level rise, and natural disasters, which threaten the fragile ecosystem and the communities that depend on it. Efforts are being made to address these challenges and preserve the Sundarbans for future generations.",
+      "image": "https://i.ibb.co/kMX4WsZ/sundorbon.png",
+      "price": 1500.00,
+      "currency": "USD"
+    },
+    {
+      "id": 4,
+      "name": "Srimangal",
+      "description": "Srimangal is a small town located in the northeast region of Bangladesh, known for its beautiful tea gardens and natural beauty. It is often referred to as the tea capital of Bangladesh due to its large tea plantations and production of high-quality tea. The town is surrounded by lush green hills, forests, and wetlands, making it a popular destination for eco-tourists and nature enthusiasts. Srimangal is also home to a number of wildlife sanctuaries, including the Lawachara National Park, which is known for its diverse flora and fauna. In addition to its natural attractions, Srimangal is also famous for its unique culture and traditions, including its music, dance, and cuisine. It is an important center of the country's tea industry and a hub for trade and commerce. Despite its small size, Srimangal has a rich history and a vibrant community, making it a must-visit destination for anyone traveling to Bangladesh.'",
+      "image": "https://i.ibb.co/PzzK5BG/muhammad-niloy-CEz-Gki0fh-Ns-unsplash.jpg",
+      "price": 1000.00,
+      "currency": "USD"
+    },
+    {
+      "id": 5,
+      "name": "Chittagong Hill Tracts",
+      "description": "The Chittagong Hill Tracts is a mountainous region located in southeastern Bangladesh, bordering India and Myanmar. It is home to several indigenous communities, including the Chakma, Marma, and Tripura, who have their own unique cultures, languages, and traditions. The region is known for its natural beauty, with lush forests, waterfalls, and rivers, making it a popular destination for eco-tourists and adventure seekers. However, the Chittagong Hill Tracts has also been the site of conflict between the indigenous communities and the Bangladeshi government, with issues related to land ownership, displacement, and human rights. Efforts have been made to address these issues and promote peace and development in the region, including the signing of the Chittagong Hill Tracts Peace Accord in 1997, which established a framework for resolving the conflict and ensuring the rights of the indigenous communities. Despite the challenges, the Chittagong Hill Tracts remains an important part of Bangladesh's cultural and natural heritage.",
+      "image": "https://i.ibb.co/X4J0fvZ/william-william-Nnd-Kt2k-F1-L4-unsplash.jpg",
+      "price": 2000.00,
+      "currency": "USD"
+    },
+    {
+      "id": 6,
+      "name": "Paharpur",
+      "description": "Paharpur is an archaeological site located in northern Bangladesh, near the town of Badalgachhi. It is the site of the ruins of an ancient Buddhist monastery and is considered one of the most important archaeological sites in South Asia. The monastery, which is believed to have been built in the 8th century AD, covers an area of over 27 acres and consists of a complex of temples, stupas, and other structures. The site is known for its unique architectural features, including its impressive terracotta ornamentation and the large number of statues of the Buddha found there. Paharpur is also an important center of Buddhist learning, with a rich history of scholarship and intellectual activity. Today, the site is a popular destination for tourists and scholars interested in learning about the history and culture of the region. It is also a UNESCO World Heritage Site and an important symbol of Bangladesh's rich cultural heritage.",
+      "image": "https://i.ibb.co/ygn7NLm/sonika-agarwal-Eqg-B731ud-RM-unsplash.jpg",
+      "price": 900.00,
+      "currency": "USD"
+    }
+  ]
